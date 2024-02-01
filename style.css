@@ -1,0 +1,107 @@
+.container-wide {
+    width: 100%;
+ 
+}
+
+
+.container {
+    display: flex;
+}
+
+.d-flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.justify-between {
+    justify-content: space-between;
+}
+
+
+
+#logo-img {
+    width: 140px;
+}
+
+.container-wide {
+padding: 0 6%;
+} 
+
+
+header {
+    padding: 70px 0;
+}
+
+nav {
+    width: 54%;
+}
+
+li {
+    text-transform: uppercase;
+    color: #626262;
+    font-size: 14px;
+
+}
+
+.align-center {
+    align-items: center;
+}
+
+header li:hover {
+opacity: 0.5;
+
+}
+
+#image_wrapper {
+    width: 55%;
+
+}
+
+
+#image_wrapper {
+   display: flex;
+gap: 5%;
+padding-left: 23%;
+
+}
+
+p {
+    color: 626262;
+    font-size: 22px;
+}
+
+#text-wrapper {
+    display: flex;
+    gap: 15%;
+    padding-left: 23%;
+}
+
+
+#image_wrapper2 {
+    width: 55%;
+
+}
+
+
+#image_wrapper2 {
+   display: flex;
+gap: 5%;
+padding-left: 23%;
+
+}
+
+.lorem_txt {
+    font-size: 16px;
+    padding-left: 23%;
+    color: gray;
+   
+}
+
+
+
+
+#text-wrapper2 {
+    display: flex;
+    gap: 24%;
+    padding-left: 24%;
+}
